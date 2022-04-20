@@ -54,6 +54,14 @@ a {
 
 .main {
   display: flex;
+  height: 25vh;
+}
+
+.awesome,
+.image-big {
+  display: flex;
+  flex-direction: column;
+  width: 37vw;
 }
 
 .awesome > .title {
