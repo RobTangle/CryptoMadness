@@ -13,6 +13,7 @@ body > div {
 body {
   display: flex;
   flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .one {
@@ -50,3 +51,12 @@ a {
 .image-big img {
   max-height: 20vh;
 } */
+
+.main {
+  display: flex;
+}
+
+.awesome > .title {
+  font-size: 20px;
+  font-weight: bold;
+}
