@@ -61,6 +61,8 @@ a {
 .image-big {
   display: flex;
   flex-direction: column;
+  width: 450px;
+  height: auto;
   /* width: 37vw;
   box-sizing: content-box; */
 }
