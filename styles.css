@@ -18,3 +18,22 @@ body {
 .one {
   height: 250px;
 }
+
+ul li,
+a {
+  display: flex;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.header {
+  display: flex;
+}
+
+.links {
+  display: flex;
+}
+
+.links ul {
+  display: flex;
+}
