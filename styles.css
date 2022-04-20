@@ -1,0 +1,20 @@
+* {
+  border: solid;
+  border-color: red;
+  border-width: 2px;
+}
+
+body > div {
+  border: solid;
+  border-color: blue;
+  border-width: 2px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.one {
+  height: 250px;
+}
