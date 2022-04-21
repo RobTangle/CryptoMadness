@@ -176,6 +176,7 @@ button {
   width: 75vw;
   margin-left: auto;
   margin-right: auto;
+  padding: 40px 16vw;
   background-color: #e5e7eb;
 }
 
@@ -223,7 +224,7 @@ button {
 }
 
 .footer {
-  width: 75vw;
+  width: 98vw;
   padding: 25px 0 25px;
   background-color: #1f2937;
   color: white;
