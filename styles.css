@@ -166,3 +166,14 @@ button {
   font-size: 14px;
   padding: 5px;
 }
+
+.three {
+  font-size: 36px;
+  /* font-family: italic; */
+  font-weight: lighter;
+  text-align: center;
+  width: 75vw;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #e5e7eb;
+}
