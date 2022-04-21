@@ -40,7 +40,7 @@ a {
 
 .header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
 }
 
@@ -50,6 +50,11 @@ a {
 
 .links ul {
   display: flex;
+}
+
+.links li {
+  display: flex;
+  padding: 0px 15px;
 }
 
 /* .image-big {
