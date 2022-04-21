@@ -19,8 +19,8 @@ body {
 .one {
   /* height: 250px; BORRO ESTO PORQUE SINO ME HACE OVERFLOW CUANDO ACHICO LA VENTANA
   width: 75vw; */
-  margin-left: auto;
-  margin-right: auto;
+  /* margin-left: auto;
+  margin-right: auto; */
   color: white;
   background-color: #1f2937;
 }
@@ -63,6 +63,7 @@ a {
 .main {
   display: flex;
   box-sizing: content-box;
+  justify-content: center;
 }
 
 .awesome,
