@@ -206,6 +206,11 @@ button {
   flex: 3;
 }
 
+.call-action {
+  font-size: 20px;
+  font-weight: bold;
+}
+
 .button {
   display: flex;
   flex: 1;
