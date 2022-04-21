@@ -1,14 +1,14 @@
-* {
+/* * {
   border: solid;
   border-color: red;
   border-width: 2px;
-}
+} */
 
-body > div {
+/* body > div {
   border: solid;
   border-color: blue;
   border-width: 2px;
-}
+} */
 
 body {
   display: flex;
@@ -220,4 +220,13 @@ button {
 .button > button {
   margin: auto;
   border-color: white;
+}
+
+.footer {
+  width: 75vw;
+  padding: 25px 0 25px;
+  background-color: #1f2937;
+  color: white;
+  margin: auto;
+  text-align: center;
 }
