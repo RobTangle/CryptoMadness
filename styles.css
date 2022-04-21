@@ -68,7 +68,11 @@ a {
 .main {
   display: flex;
   box-sizing: content-box;
+  overflow: auto;
   justify-content: center;
+  width: 75vw;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .awesome,
@@ -77,6 +81,7 @@ a {
   flex-direction: column;
   width: 450px;
   height: auto;
+  overflow: auto;
   /* width: 37vw;
   box-sizing: content-box; */
 }
