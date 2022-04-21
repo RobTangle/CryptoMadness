@@ -129,6 +129,9 @@ button {
 
 .random {
   text-align: center;
+  font-size: 36px;
+  font-weight: 800;
+  color: #1f2937;
 }
 
 .squares {
@@ -142,6 +145,22 @@ button {
 .squares > div {
   display: flex;
 
+  height: 220px;
+  width: 220px;
+}
+
+.img-small {
   height: 150px;
-  width: 150px;
+  width: auto;
+}
+
+.square {
+  display: flex;
+  flex-direction: column;
+}
+
+.text-small {
+  height: 70px;
+  overflow: auto;
+  font-size: 14px;
 }
