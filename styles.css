@@ -28,6 +28,7 @@ body {
 .logo {
   font-size: 24px;
   color: #f9faf8;
+  width: 450px;
 }
 
 ul li,
@@ -42,7 +43,7 @@ a {
   display: flex;
   box-sizing: content-box;
   overflow: auto;
-  justify-content: space-around;
+  justify-content: center;
   width: 75vw;
   margin-left: auto;
   margin-right: auto;
@@ -51,6 +52,7 @@ a {
 
 .links {
   display: flex;
+  width: 450px;
 }
 
 .links ul {
@@ -78,6 +80,7 @@ a {
   width: 75vw;
   margin-left: auto;
   margin-right: auto;
+  padding-bottom: 50px;
 }
 
 .awesome,
@@ -87,8 +90,9 @@ a {
   width: 450px;
   height: auto;
   overflow: auto;
-  /* width: 37vw;
-  box-sizing: content-box; */
+  border-radius: 8px;
+  /* width: 37vw; */
+  /* box-sizing: content-box; */
 }
 
 .awesome > .title {
