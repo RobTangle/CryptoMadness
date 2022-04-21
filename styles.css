@@ -152,6 +152,7 @@ button {
 .img-small {
   height: 150px;
   width: auto;
+  border-radius: 8px;
 }
 
 .square {
