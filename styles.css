@@ -164,4 +164,5 @@ button {
   height: 70px;
   overflow: auto;
   font-size: 14px;
+  padding: 5px;
 }
