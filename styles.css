@@ -192,10 +192,27 @@ button {
 .four {
   width: 60vw;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   margin: 40px auto;
   background-color: #3882f6;
   padding: 20px 40px;
   border-radius: 10px;
   color: white;
+}
+
+.call {
+  display: flex;
+  flex-direction: column;
+  flex: 3;
+}
+
+.button {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+.button > button {
+  margin: auto;
+  border-color: white;
 }
