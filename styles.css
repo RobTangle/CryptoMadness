@@ -29,6 +29,7 @@ body {
   font-size: 24px;
   color: #f9faf8;
   width: 450px;
+  margin-right: auto;
 }
 
 ul li,
@@ -53,10 +54,12 @@ a {
 .links {
   display: flex;
   width: 450px;
+  /* margin-left: auto; */
 }
 
 .links ul {
   display: flex;
+  margin-left: auto;
 }
 
 .links li {
