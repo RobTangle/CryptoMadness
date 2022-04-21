@@ -87,4 +87,11 @@ a {
 
 button {
   background-color: #3882f6;
+  display: flex;
+  justify-content: center;
+  margin-right: auto;
+  padding: 5px 18px;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
 }
